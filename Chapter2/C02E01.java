@@ -1,5 +1,5 @@
 import java.util.*;
-public class Temperature{
+public class C02E01{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a degree in Celsius:");
