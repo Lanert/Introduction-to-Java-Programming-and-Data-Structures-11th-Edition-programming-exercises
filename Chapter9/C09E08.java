@@ -54,7 +54,7 @@ class Fan{
 		}
 	}
 }
-public class Main{
+public class C09E08 {
 	public static void main(String[] args){
 		Fan fan1 = new Fan(Fan.FAST,10,true,"yellow");
 		Fan fan2 = new Fan(Fan.MEDIUM,5,false,"blue");

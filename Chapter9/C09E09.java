@@ -46,7 +46,7 @@ class RegularPolygon{
 		return getN()*getSide()*getSide()/4/Math.tan(Math.PI/n);
 	}
 }
-public class Main{
+public class C09E09 {
 	public static void main(String[] args){
 		RegularPolygon rp1 = new RegularPolygon();
 		RegularPolygon rp2 = new RegularPolygon(6,4);

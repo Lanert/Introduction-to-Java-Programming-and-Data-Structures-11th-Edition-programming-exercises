@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Month {
+public class C03E04 {
 	public static void main(String[] args){
 		int num = (int)(Math.random()*12+1);
 		String month = "";

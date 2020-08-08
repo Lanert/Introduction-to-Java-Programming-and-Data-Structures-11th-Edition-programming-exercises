@@ -43,7 +43,7 @@ class QuadraticEquation{
 		}
 	}
 }
-public class Main{
+public class C09E10 {
 	public static void main(String[] args){
 		QuadraticEquation equ1 = new QuadraticEquation(1,3,1);
 		QuadraticEquation equ2 = new QuadraticEquation(1,2,1);

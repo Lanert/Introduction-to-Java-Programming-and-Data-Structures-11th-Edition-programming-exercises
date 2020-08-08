@@ -11,7 +11,7 @@ class Stock{
 		return (currentPrice-previousClosingPrice)/previousClosingPrice*100.0;
 	}
 }
-public class Main{
+public class C09E02 {
 	public static void main(String[] args){
 		Stock oracle = new Stock("ORCL","Oracle Corporation");
 		oracle.previousClosingPrice = 34.5;

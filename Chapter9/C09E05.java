@@ -1,5 +1,5 @@
 import java.util.GregorianCalendar;
-public class Main{
+public class C09E05 {
 	public static void main(String[] args){
 		GregorianCalendar date = new GregorianCalendar();
 		printdate(date);

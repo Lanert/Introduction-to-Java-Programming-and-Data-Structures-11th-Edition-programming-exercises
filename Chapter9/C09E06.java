@@ -14,7 +14,7 @@ class StopWatch{
 		return endTime-startTime;
 	}
 }
-public class Main{
+public class C09E06 {
 	public static void main(String[] args){
 		StopWatch sw = new StopWatch();
 		double array[] = new double[100000];

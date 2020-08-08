@@ -51,7 +51,7 @@ class Account{
       getMonthlyInterest() + "\ndate created: " + getdateCreated();
   }
 }
-public class Main{
+public class C09E07 {
 	public static void main(String[] args){
 		Account account = new Account(1122,20000);
 		account.setannualIntereatRate(4.5);

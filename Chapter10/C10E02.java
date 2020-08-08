@@ -49,7 +49,7 @@ class BMI{
 		return height;
 	}
 }
-public class Main{
+public class C10E02 {
 	public static void main(String[] args){
 		BMI bmi1 = new BMI("Kim Yang", 18, 145, 70);
 		System.out.println("The BMI for " + bmi1.getName() + " is " +

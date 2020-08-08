@@ -14,7 +14,7 @@ class Week{
 		return day;
 	}
 }
-public class Date {
+public class C03E05 {
 	public static void main(String[] args){
 		System.out.print("Enter today's day: ");
 		Scanner input = new Scanner(System.in);

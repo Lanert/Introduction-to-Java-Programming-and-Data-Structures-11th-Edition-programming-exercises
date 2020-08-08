@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Equation {
+public class C03E01 {
 	public static void main(String[] args){
 		System.out.println("Enter a, b, c:");
 		Scanner input = new Scanner(System.in);

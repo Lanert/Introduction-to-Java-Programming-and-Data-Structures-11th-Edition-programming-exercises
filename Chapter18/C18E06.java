@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Test{
+public class C18E06{
 	public static void main(String[] args) {
 		int i;
 		for(i=1;i<=10;i++)

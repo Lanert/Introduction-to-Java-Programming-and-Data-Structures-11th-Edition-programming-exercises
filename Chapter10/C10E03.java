@@ -86,7 +86,7 @@ class MyInteger{
 		return parseInt(new String(array));
 	}
 }
-public class Main {
+public class C10E03 {
 	public static void main(String[] args) {
 		MyInteger one = new MyInteger(12);
 		System.out.println("isodd:"+one.isOdd()+"  iseven:"+one.isEven()+"  isprime:"+one.isPrime());

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Text{
+public class C03E11 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 		System.out.print("plase input a number");

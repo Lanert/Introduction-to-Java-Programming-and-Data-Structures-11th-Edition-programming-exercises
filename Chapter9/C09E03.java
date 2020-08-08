@@ -1,5 +1,5 @@
 import java.util.Date;
-public class Main{
+public class C09E03 {
 	public static void main(String[] args){
 		Date date = new Date();
 		for(long i = 10000L;i<=100000000000L;i*=10){

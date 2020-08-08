@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class C03E14 {
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter a three-digit number:");

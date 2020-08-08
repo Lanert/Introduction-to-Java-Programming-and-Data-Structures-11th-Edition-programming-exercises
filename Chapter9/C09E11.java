@@ -52,7 +52,7 @@ class LinnerEquation{
 		}
 	}
 }
-public class Main{
+public class C09E11{
 	public static void main(String[] args){
 		LinnerEquation equ1 = new LinnerEquation(9,4,3,-5,-6,-21);
 		LinnerEquation equ2 = new LinnerEquation(1,2,2,4,4,5);

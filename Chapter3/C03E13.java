@@ -1,5 +1,5 @@
 import java.util.*;
-public class Text{
+public class C03E13{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 		System.out.println("plase input guess,front is 1,back is 0");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Addition {
+public class C03E02 {
 	public static void main(String[] args){
 		int num1 = (int)(Math.random()*10);
 		int num2 = (int)(Math.random()*10);

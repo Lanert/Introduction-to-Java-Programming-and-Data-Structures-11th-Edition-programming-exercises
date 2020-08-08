@@ -53,7 +53,7 @@ class LinnerEquation{
 		}
 	}
 }
-public class Main{
+public class C09E12{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter x1,y1,x2,y2,x3,y3,x4,y4:");

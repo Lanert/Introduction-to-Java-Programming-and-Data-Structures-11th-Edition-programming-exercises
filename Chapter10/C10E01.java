@@ -35,7 +35,7 @@ class Time{
 		return String.format("%02d:%02d:%02d",getHour(),getMinute(),getSecond());
 	}
 }
-public class Main{
+public class C10E01{
 	public static void main(String[] args){
 		Time time1 = new Time();
 		Time time2 = new Time(555550000L);

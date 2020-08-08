@@ -4,7 +4,7 @@ class Location{
 	int column;
 	double maxValue;
 }
-public class Main{
+public class C09E13{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		double[][] array = creatArray(input);

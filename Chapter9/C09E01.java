@@ -15,7 +15,7 @@ class Rectangle{
 		return 2*(width+height);
 	}
 }
-public class Main{
+public class C09E01{
 	public static void main(String[] args){
 		Rectangle r_a1 = new Rectangle(4,40);
 		Rectangle r_a2 = new Rectangle(3.5,35.9);

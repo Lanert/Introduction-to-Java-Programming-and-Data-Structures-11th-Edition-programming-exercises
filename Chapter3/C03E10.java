@@ -1,5 +1,5 @@
 import java.util.*;
-public class Text{
+public class C03E10 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 		int day = 28;String month = "";

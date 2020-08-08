@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Isbn{
+public class C03E08 {
 	public static void main(String[] args){
 		int i,sum = 0;
 		int[] ISBN = new int[9];
