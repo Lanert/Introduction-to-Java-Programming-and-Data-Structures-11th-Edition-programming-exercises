@@ -1,5 +1,5 @@
 import java.util.*;
-public class Interest{
+public class C02E20{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter investment and rate:");

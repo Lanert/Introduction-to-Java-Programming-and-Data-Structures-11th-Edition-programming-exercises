@@ -1,5 +1,5 @@
 import java.util.*;
-public class Investment{
+public class C02E21{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter investment:");

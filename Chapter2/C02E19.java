@@ -1,5 +1,5 @@
 import java.util.*;
-public class Triangle{
+public class C02E19{
 	public static void main(String[] args){
 		double s1,s2,s3;
 		Scanner input = new Scanner(System.in);

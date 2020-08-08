@@ -1,5 +1,5 @@
 import java.util.*;
-public class Volume{
+public class C02E02{
 	public static void main(String[] args){
 		final double PI = 3.1415926;
 		System.out.println("Enter the radius and length of a cylinder");

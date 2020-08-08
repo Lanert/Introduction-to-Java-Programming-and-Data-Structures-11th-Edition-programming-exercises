@@ -1,5 +1,5 @@
 import java.util.*;
-public class Special_sum{
+public class C02E06{
 	public static void main(String[] args){
 		while(true){System.out.println("Enter a number between 0 and 1000");
 		Scanner input = new Scanner(System.in);

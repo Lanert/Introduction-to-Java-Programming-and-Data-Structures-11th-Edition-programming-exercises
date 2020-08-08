@@ -1,5 +1,7 @@
+package Chapter2;
+
 import java.util.*;
-public class ADF{
+public class C02E08{
 	public static void main(String[] args){
 		System.out.println("Enter the time zone offset to GMT:");
 		Scanner input = new Scanner(System.in);

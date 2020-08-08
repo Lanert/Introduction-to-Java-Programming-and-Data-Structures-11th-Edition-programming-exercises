@@ -1,5 +1,5 @@
 import java.util.*;
-public class Fee{
+public class C02E05{
 	public static void main(String[] args){
 		System.out.println("Enter the subtotal and a gratuity rate");
 		Scanner input = new Scanner(System.in);

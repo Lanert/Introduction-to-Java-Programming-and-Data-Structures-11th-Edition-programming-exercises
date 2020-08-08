@@ -1,5 +1,5 @@
 import java.util.*;
-public class Drive{
+public class C02E22{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter driving distance:");

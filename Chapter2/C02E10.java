@@ -1,5 +1,5 @@
 import java.util.*;
-public class Energy{
+public class C02E10{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the amount of water in kilograms:");

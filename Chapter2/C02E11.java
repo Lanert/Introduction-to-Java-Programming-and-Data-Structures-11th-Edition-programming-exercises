@@ -1,5 +1,5 @@
 import java.util.*;
-public class Population{
+public class C02E11{
 	public static void main(String[] args){
 		final int people = 312032486;
 		Scanner input = new Scanner(System.in);

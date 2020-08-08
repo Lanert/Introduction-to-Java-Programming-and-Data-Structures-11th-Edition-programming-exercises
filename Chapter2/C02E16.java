@@ -1,5 +1,5 @@
 import java.util.*;
-public class Hexagon{
+public class C02E16{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter the length of the side:");

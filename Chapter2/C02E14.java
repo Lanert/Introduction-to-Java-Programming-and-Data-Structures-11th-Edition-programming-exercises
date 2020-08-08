@@ -1,5 +1,5 @@
 import java.util.*;
-public class Bmi{
+public class C02E14{
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter weight in pounds:");

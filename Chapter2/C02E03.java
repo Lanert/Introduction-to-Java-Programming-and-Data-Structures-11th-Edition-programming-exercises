@@ -1,5 +1,5 @@
 import java.util.*;
-public class Coversion_f_m{
+public class C02E03{
 	public static void main(String[] args){
 		System.out.println("Enter a value for feet:");
 		Scanner input = new Scanner(System.in);

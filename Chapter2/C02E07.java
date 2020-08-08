@@ -1,5 +1,5 @@
 import java.util.*;
-public class Year{
+public class C02E07{
 	public static void main(String[] args){
 		System.out.println("Enter the number of minutes:");
 		Scanner input = new Scanner(System.in);

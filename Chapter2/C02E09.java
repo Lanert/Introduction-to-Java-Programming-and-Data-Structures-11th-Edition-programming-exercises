@@ -1,5 +1,5 @@
 import java.util.*;
-public class Avg{
+public class C02E09{
 	public static void main(String[] args){
 		System.out.println("Enter v0, v1 and t:");
 		Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-public class Printform{
+public class C02E18{
 	public static void main(String[] args){
 		System.out.println("a    b    pow(a,b)");
 		for(int i=1;i<=5;i++){

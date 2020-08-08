@@ -1,5 +1,5 @@
 import java.util.*;
-public class Investment{
+public class C02E13{
 	public static void main(String[] args){
 		final float rate = 0.00417F;
 		float principal = 0;
